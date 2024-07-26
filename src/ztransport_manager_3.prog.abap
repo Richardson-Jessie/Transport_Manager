@@ -1,7 +1,8 @@
 *&---------------------------------------------------------------------*
 *& Report ZTRANSPORT_MANAGER_3
 *&---------------------------------------------------------------------*
-*&
+*&https://help.sap.com/docs/ABAP_PLATFORM/b1c834a22d05483b8a75710743b5ff26/4ec1f117076868b8e10000000a42189e.html
+*&https://community.sap.com/t5/application-development-blog-posts/reports-with-cl-salv-table/ba-p/13469111
 *&---------------------------------------------------------------------*
 REPORT ztransport_manager_3.
 
